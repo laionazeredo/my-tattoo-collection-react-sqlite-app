@@ -58,4 +58,4 @@ knex.select('*').from('tattoos')
   .catch(err => console.log(err))
   
 // Export the database
-module.exports = knex
+module.exports = knex 

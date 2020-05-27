@@ -1,6 +1,6 @@
 {
   "name": "my-tattoo-collection-react-sqlite-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "App for recording all tattoos you wanna do in your body, built with React, Express and SQLite.",
   "private": false,
   "license": "MIT",
