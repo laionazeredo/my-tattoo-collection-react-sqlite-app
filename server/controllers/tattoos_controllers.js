@@ -1,7 +1,7 @@
 // my_tattoo_collection/server/controllers/tattoos-controller.js
 
 // Import database
-const knex = require('./../db_interface')
+const knex = require('../db_interface')
 
 // Retrieve all tattoos
 exports.tattoosAll = async (req, res) => {

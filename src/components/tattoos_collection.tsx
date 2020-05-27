@@ -104,6 +104,7 @@ export const Tattoos = () => {
     .catch(error => console.error(`There was an error resetting the tattoo list: ${error}`))
   }
   return (
+    // <h1 className='page-title'>My Tatoos Collection</h1>
     <div className="tattoo-list-wrapper">
       {/* Form for creating new tattoo */}
       <div className="tattoo-list-form">
